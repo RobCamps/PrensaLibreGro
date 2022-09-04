@@ -1,27 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" href="/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="Web site created using create-snowpack-app" />
-    <link rel="stylesheet" type="text/css" href="/index.css" />
-    <title>Snowpack App</title>
-  </head>
-  <body>
-    <img id="img" src="/logo.svg" />
-    <canvas id="canvas"></canvas>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
-    <script type="module" src="/dist/index.js"></script>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="Noticias de último minuto sobre el Estado de Guerrero" />
+  <meta name="robots" content="index,follow" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prensa Libre Gro</title>
+  <link rel="stylesheet" href="./style.css">
 
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
+</head>
+ <body> 
 
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+  <ul class="navigation">
+    <img src="./imagenes/prensalibre.jpeg" alt="prensalibre" class="prensalibre">
+    <li><a href="./index.html">Inicio</a></li>
+    <li><a href="./politica.html">Política</a></li>
+    <li><a href="./seguridadyjusticia.html">Seguridad y Justicia</a></li>
+    <li><a href="./economia.html">Economía</a></li>
+    <li><a href="./salud.html">Salud</a></li>
+  </ul>
+      
+ <ul class="flex-container">
+  <li class="flex-item"> 
+    <h2>Jacko Badillo va por alcaldía de Acapulco, contenderá contra Abelina y los que se sumen en Morena</h2>
+    <img src="./imagenes/jacko-.jpeg" alt="jacko">
+    <p> Agencia de Noticias Guerrero (ANG).- Joaquín Badillo Escamilla adelantó que buscará la presidencia municipal de Acapulco y contenderá al interior de morena contra Abelina López Rodríguez quien buscará la reelección y otros más que seguramente se buscarán la alcaldía porteña. <a href="./jacko-alcaldia.html">Leer más...</a> </p>
+  </li>
+  <li class="flex-item">
+    <h2>Defiende DiDi su llegada al puerto Acapulco y llama al diálogo</h2>
+    <img src="./imagenes/didi.jpeg" alt="didi">
+    <p> Agencia de Noticias Guerrero (ANG).- La plataforma DiDi defendió su llegada y permanencia en el puerto de Acapulco, afirmando que la puesta en marcha de su servicio DiDi Taxi, respeta la actual regulación en materia de movilidad y transporte, además de que funciona de forma exclusiva con taxistas concesionados. <a href="./defiende-didi.html">Leer más...</a> </p>
+  </li>
+  <li class="flex-item"><h2>Protestan trabajadores voluntarios de Saneamiento Básico de Acapulco</h2>
+    <img src="./imagenes/trabajadores.jpeg" alt="trabajadores">
+    <p> Agencia de Noticias Guerrero (ANG).- Trabajadores voluntarios de Saneamiento Básico protestaron y bloquearon de manera intermitente la circulación vial en la Avenida Cuauhtémoc a las afueras del ayuntamiento de Acapulco para demandar su reinstalación en la dependencia. <a href="./saneamiento-bas.html">Leer más...</a> </p>
+  </li>
+  <li class="flex-item"><h2>El FENPEG bloquean avenida de Chilpancingo; exigen el otorgamiento de plazas para recién egresados</h2>
+    <img src="./imagenes/fenpeg.jpeg" alt="fenpeg">
+    <p> Jorge Martinez; Chilpancingo, Gro., miércoles 31 de agosto del 2022.Agencia de Noticias Guerrero (ANG).- El Frente Estatal de Normales Públicas del Estado de Guerrero (FENPEG), bloquean la avenida Lázaro Cárdenas en ambos carriles, cerca del monumento a Las Banderas en Chilpancingo. <a href="./fenpeg.html">Leer más...</a> </p>
+  </li>
+  <li class="flex-item"><h2>Padres de los 43 acusan al empresario Pedro Segura de intentar dividir al colectivo </h2>
+    <img src="./imagenes/pedro-segura.jpeg" alt="pedro">
+    <p> SNI.-El Comité de Madres y Padres de los 43, acusó al empresario Pedro Segura Valladares, ex candidato del Partido del Trabajo (PT) a la gubernatura del estado, de operar la división del colectivo con la intención de favorecer a la familia del ex alcalde de Iguala, José Luis Abarca Velázquez “y su grupo delictivo”.  <a href="./pedro-segura-divide.html">Leer más...</a> </p>
+  </li>
+  <li class="flex-item"><h2>“Lo mataron, no se murió”, dice la familia en el sepelio de Ezequiel Mora, padre de uno de los 43</h2>
+    <img src="./imagenes/ezequiel.jpeg" alt="ezequiel">
+    <p> SNI.-“Lo mataron, no se murió”, gritaron integrantes de la familia de don Ezequiel Mora Chora, padre de Alexander Mora Venancio, uno de los 43 normalistas de Ayotzinapa desaparecidos la noche del 26 de septiembre de 2014, durante el sepelio realizado en la comunidad de El Pericón, municipio de Tecoanapa.  <a href="./ezequiel.html">Leer más...</a> </p>
+  </li>
+</ul>
+    
+  
+ </body>
 </html>
