@@ -79,11 +79,11 @@ body {
     margin: 5px;
   }
 
-  .flex-item-jacko {
+  .flex-item-tormenta {
     background: rgb(237, 227, 226);
     padding: 20px;
     width: 850px;
-    height: 550px;
+    height: 650px;
     margin-top: 10px;
     margin-bottom: 10px;
     color: rgb(0, 0, 0);
@@ -91,17 +91,17 @@ body {
     text-align: justify;
     border-radius: 10px;
   }
-  .flex-item-jacko img {
+  .flex-item-tormenta img {
     width: 50%;
     float: left;
     margin: 5px;
   }
 
-  .flex-item-didi {
+  .flex-item-maestros {
     background: rgb(237, 227, 226);
     padding: 20px;
     width: 850px;
-    height: 800px;
+    height: 600px;
     margin-top: 10px;
     margin-bottom: 10px;
     color: rgb(0, 0, 0);
@@ -109,17 +109,17 @@ body {
     text-align: justify;
     border-radius: 10px;
   }
-  .flex-item-didi img {
+  .flex-item-maestros img {
     width: 50%;
     float: left;
     margin: 5px;
   }
 
-  .flex-item-sanea {
+  .flex-item-zeferino {
     background: rgb(237, 227, 226);
     padding: 20px;
     width: 850px;
-    height: 800px;
+    height: 1500px;
     margin-top: 10px;
     margin-bottom: 10px;
     color: rgb(0, 0, 0);
@@ -127,7 +127,7 @@ body {
     text-align: justify;
     border-radius: 10px;
   }
-  .flex-item-sanea img {
+  .flex-item-zeferino img {
     width: 50%;
     float: left;
     margin: 5px;
@@ -181,6 +181,40 @@ body {
     border-radius: 10px;
   }
   .flex-item-ezequiel img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-terremoto {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 650px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-terremoto img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-homicidios {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 650px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-homicidios img {
     width: 50%;
     float: left;
     margin: 5px;
