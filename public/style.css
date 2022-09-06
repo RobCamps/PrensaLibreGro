@@ -219,3 +219,27 @@ body {
     float: left;
     margin: 5px;
   }
+  .flex-item-extorsion {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 1300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-tormentatropical {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 800px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
