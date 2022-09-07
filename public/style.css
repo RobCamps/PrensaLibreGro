@@ -243,3 +243,37 @@ body {
     text-align: justify;
     border-radius: 10px;
   }
+  .flex-item-guerreroviolencia {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-guerreroviolencia img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-scjn-rechaza {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 1100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-scjn-rechaza img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
