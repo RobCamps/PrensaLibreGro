@@ -316,3 +316,20 @@ body {
     float: left;
     margin: 5px;
   }
+  .flex-item-ometepec-salud {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 700px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-ometepec-salud img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
