@@ -12,7 +12,6 @@ body {
     margin: 0px; 
     background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(7,121,222,1) 0%, rgba(20,72,140,1) 90% );
   }
-  
   .navigation a {
     text-decoration: none;
     display: block;
@@ -23,7 +22,24 @@ body {
   .navigation a:hover {
     background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,152,155,1) 0.1%, rgba(0,94,120,1) 94.2% );
   }
+  .navigation2 {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content:right;
+    list-style: none;
+    margin: 0px; 
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(7,121,222,1) 0%, rgba(20,72,140,1) 90% );
+  }
+  .navigation2 a {
+    text-decoration: none;
+    display: block;
+    padding: 15px;
+    color: white;
+  }
   
+  .navigation2 a:hover {
+    background-image: radial-gradient( circle farthest-corner at 10% 20%,  rgba(0,152,155,1) 0.1%, rgba(0,94,120,1) 94.2% );
+  }
   @media all and (max-width: 800px) {
     .navigation {
       justify-content: space-around;
@@ -45,6 +61,7 @@ body {
     .navigation li:last-of-type a {
       border-bottom: none;
     }
+    
   }
   .prensalibre {
     width: 200px;
