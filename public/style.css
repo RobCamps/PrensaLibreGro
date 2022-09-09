@@ -350,3 +350,156 @@ body {
     float: left;
     margin: 5px;
   }
+  .flex-item-ceteg-anuncia {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 750px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-ceteg-anuncia img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-sanmartin {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 750px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-sanmartin img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-pc-paro {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 750px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-pc-paro img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-scjn-rechaza {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 1050px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-scjn-rechaza img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-guerrero-violento {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-guerrero-violento img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-alcalde-telo {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-alcalde-telo img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-cobros-ilegales {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 850px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-cobros-ilegales img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-telo-gasolina {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-telo-gasolina img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
+  .flex-item-suicidios {
+    background: rgb(237, 227, 226);
+    padding: 20px;
+    width: 850px;
+    height: 800px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    text-align: justify;
+    border-radius: 10px;
+  }
+  .flex-item-suicidios img {
+    width: 50%;
+    float: left;
+    margin: 5px;
+  }
